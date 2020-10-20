@@ -1,2 +1,2 @@
 # hello-world
-First thing on here.
+My name is Sai, and I'm new to programming. I'm really excited!
